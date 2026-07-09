@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 const bot = mineflayer.createBot({
   host: 'furina.nexuscloud.id',
   port: 19092,
-  username: 'NamaBot', // Ganti dengan username bot yang kamu inginkan
+  username: 'barry_bot', // Ganti dengan username bot yang kamu inginkan
   auth: 'offline'
 })
 
