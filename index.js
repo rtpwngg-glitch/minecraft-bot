@@ -5,6 +5,7 @@ const bot = mineflayer.createBot({
   port: 19092,
   username: 'barry_bot', // Ganti dengan username bot yang kamu inginkan
   auth: 'offline'
+  version:'1.21.11'
 })
 
 bot.on('login', () => {
